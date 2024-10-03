@@ -12,10 +12,10 @@
   
 #
 
-<a href="[https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq](https://open.spotify.com/intl-tr/album/711zVBGg9kjmtHfcHZIZZE?si=b_obFSt9QOy9otfTopQ1YQ)"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt=" Spotify" ></a>
-
+<a href="https://open.spotify.com/track/YOUR_TRACK_ID_HERE"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Spotify"></a>
 
 <img width="50%" align="center" src="https://cdn.pfps.gg/banners/4173-girl-with-a-sword-banner.gif" alt="background">
+
 
 
 
@@ -35,10 +35,6 @@
 
 #
 
-
-
-
-#
 
 
 
