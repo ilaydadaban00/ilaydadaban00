@@ -1,27 +1,4 @@
-#          
-![evely1nn GitHub stats](https://github-readme-stats.vercel.app/api/?username=ilaydadaban00&show_icons=false&title_color=8b658b&icon_color=8b658b&text_color=8b658b&bg_color=000)
-<img width="50%" align="center" src="https://cdn.pfps.gg/banners/4173-girl-with-a-sword-banner.gif" alt="background">
 
-<br>
-<div>
-  
-#
-
-# My Favorite Album
-
-# 🎶 My Favorite Album
-
-[Listen to the Album on Spotify](https://open.spotify.com/intl-tr/album/711zVBGg9kjmtHfcHZIZZE?si=buJsgeW_SUKoGHmzZjGmrw)
-
-![Album Cover](https://i.scdn.co/image/ab67616d0000b273a17c4e98ec5a3071e3e7a4cb)
-
-## 🌟 About the Album
-This album features some amazing tracks that really resonate with me. The melodies and lyrics capture emotions that are both uplifting and introspective.
-
-## 🎧 My Favorite Tracks
-
-
-Feel free to check it out and let me know what you think!
 
 
 
