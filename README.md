@@ -11,7 +11,9 @@
   
 #
 
-<a href="[https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq](https://open.spotify.com/intl-tr/track/36oBlwSPNtA48TLYqk4SNp?si=5c7a6af84782466d)"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt=" Spotify" ></a>
+<a href="[https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq](https://open.spotify.com/intl-tr/track/36oBlwSPNtA48TLYqk4SNp?si=5c7a6af84782466d)">
+<img src="[https://spotify-now-playing-carol42.vercel.app/api/spotify](https://open.spotify.com/intl-tr/track/36oBlwSPNtA48TLYqk4SNp?si=5c7a6af84782466d)" alt=" Spotify" ></a>
+
 
 
 
