@@ -7,10 +7,12 @@
   
 #
 
-<a href="https://open.spotify.com/user/mWj8N7D_OlsbDgtQx5GW"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt=" Spotify" ></a>
+# My Favorite Album
 
+[Listen to the Album on Spotify](https://open.spotify.com/intl-tr/album/711zVBGg9kjmtHfcHZIZZE?si=buJsgeW_SUKoGHmzZjGmrw)
 
-<img width="50%" align="center" src="https://cdn.pfps.gg/banners/4173-girl-with-a-sword-banner.gif" alt="background">
+![Album Cover](https://i.scdn.co/image/ab67616d0000b273a17c4e98ec5a3071e3e7a4cb) <!-- Bu kısımda uygun bir albüm kapak resmi URL'si kullanabilirsin -->
+
 
 #
 
