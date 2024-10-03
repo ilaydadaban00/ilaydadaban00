@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">hoşgeldin</h1>
+<h2>▶︎ •၊၊||၊|။||||| 0:10 kabul olan tek duamsın</h2>
+⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞
 
-<!--
-**ilaydadaban00/ilaydadaban00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="ig takip ettt:</h3>
+<p align="left">
+<a href="https://instagram.com/dbn.ilayda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dbn.ilayda" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilaydadaban00&show_icons=true&locale=tr&layout=compact" alt="ilaydadaban00" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilaydadaban00&show_icons=true&locale=tr" alt="ilaydadaban00" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilaydadaban00&" alt="ilaydadaban00" /></p>
