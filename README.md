@@ -1,6 +1,6 @@
 #          
 ![evely1nn GitHub stats](https://github-readme-stats.vercel.app/api/?username=ilaydadaban00&show_icons=false&title_color=8b658b&icon_color=8b658b&text_color=8b658b&bg_color=000)
-<img width="40%" align="right" src="https://count.getloli.com/get/@:ilaydadaban00?theme=rule34"> 
+<img width="50%" align="center" src="https://cdn.pfps.gg/banners/4173-girl-with-a-sword-banner.gif" alt="background">
 
 <br>
 <div>
