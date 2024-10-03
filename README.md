@@ -7,7 +7,8 @@
   
 #
 
-<a href="https://open.spotify.com/intl-tr/album/711zVBGg9kjmtHfcHZIZZE?si=1zcVjCaDTmi30HzO1jVwPg">
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt=" Spotify" ></a>
+
 
 <img width="50%" align="center" src="https://cdn.pfps.gg/banners/4173-girl-with-a-sword-banner.gif" alt="background">
 
