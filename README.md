@@ -12,9 +12,10 @@
   
 #
 
-<a href="https://open.spotify.com/track/YOUR_TRACK_ID_HERE"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Spotify"></a>
+<a href="https://open.spotify.com/intl-tr/track/36oBlwSPNtA48TLYqk4SNp?si=c645d89524854690"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Spotify"></a>
 
 <img width="50%" align="center" src="https://cdn.pfps.gg/banners/4173-girl-with-a-sword-banner.gif" alt="background">
+
 
 
 
