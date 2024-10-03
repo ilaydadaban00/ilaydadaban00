@@ -12,8 +12,12 @@
   
 #
 
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-<img src="(https://open.spotify.com/intl-tr/track/36oBlwSPNtA48TLYqk4SNp?si=5e3cd79a32a94bd0)" alt=" Spotify" ></a>
+# Spotify Profilim
+
+[Spotify Profilime Git](https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq)
+
+![Spotify](https://open.spotify.com/intl-tr/track/36oBlwSPNtA48TLYqk4SNp?si=5e3cd79a32a94bd0)
+
 
 
 
