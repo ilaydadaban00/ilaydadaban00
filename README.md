@@ -1,1 +1,1 @@
-![MasterHead](https://github.com/CagatayAkkas/ilaydadaban00/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://github.com/ilaydadaban00/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
