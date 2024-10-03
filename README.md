@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/ilaydadaban00/ilaydadaban00/blob/main/img/Github%20Banner.jpg)
-![](https://komarev.com/ghpvc/?username=ilaydadaban00&color=blue)
+![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![]([https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue](https://www.google.com/imgres?q=fenerbah%C3%A7e&imgurl=https%3A%2F%2Fmedia.fenerbahce.org%2Fgetmedia%2Fa56dad0a-e592-4cba-b1a9-fddce7d72a16%2Fuyelikmobilj.jpg%3Fwidth%3D450%26height%3D800%26ext%3D.jpg%3Fwidth%3D152%26height%3D270%26ext%3D.png&imgrefurl=https%3A%2F%2Fwww.fenerbahce.org%2F&docid=XMCSBlyrzRZeeM&tbnid=MWXmaHshzf1g0M&vet=12ahUKEwjJ-POu-_KIAxWom4kEHSnxGSMQM3oECHsQAA..i&w=450&h=800&hcb=2&itg=1&ved=2ahUKEwjJ-POu-_KIAxWom4kEHSnxGSMQM3oECHsQAA))
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
@@ -141,4 +141,3 @@
 <details>
    <summary>:zap: Languages and Tools</summary>
  -->
-
