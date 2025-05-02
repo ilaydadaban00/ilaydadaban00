@@ -25,8 +25,6 @@
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dbn.ilayda) 
 
 
 
@@ -40,7 +38,3 @@
 
 
 
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%  
-🌆 Daytime    14 commits     █████████████░░░░░░░░░░░░   53.85% 
-🌃 Evening    10 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
