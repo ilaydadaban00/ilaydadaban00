@@ -28,11 +28,6 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png" alt="Header" title="Header" style="max-width: 100%;">
 
 
 
